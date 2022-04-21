@@ -1,5 +1,3 @@
-from email.mime import base
-from wsgiref import headers
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
