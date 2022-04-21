@@ -29,4 +29,5 @@ while True:
         from_='+12543281783',
         body='Crusie amount is: $' + price.text
     )
+    driver.close()
     time.sleep(86400)
